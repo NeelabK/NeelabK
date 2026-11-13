@@ -94,6 +94,28 @@ and then measuring whether it actually got faster. I also build full-stack web a
 
 </td>
 </tr>
+<tr>
+<td width="100%">
+
+### 🎧 [Pink Mini Player](https://github.com/NeelabK/retro-pink-music-player)
+
+**A retro pink click-wheel music player for your phone that plays your own MP3s. [Try it here](https://neelabk.github.io/retro-pink-music-player/).**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F06BA8?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-F06BA8?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-F06BA8?style=flat-square&logo=css&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-F06BA8?style=flat-square&logo=pwa&logoColor=white)
+
+<a href="https://neelabk.github.io/retro-pink-music-player/"><img src="https://raw.githubusercontent.com/NeelabK/retro-pink-music-player/main/screenshots/menu.jpg" width="200" alt="Main menu of the pink music player" /> <img src="https://raw.githubusercontent.com/NeelabK/retro-pink-music-player/main/screenshots/songs.jpg" width="200" alt="Song list with two songs numbered in the queue" /> <img src="https://raw.githubusercontent.com/NeelabK/retro-pink-music-player/main/screenshots/now-playing.jpg" width="200" alt="Now Playing screen with a progress bar" /></a>
+
+- 🌸 Working click wheel: dragging a finger around it is converted from angle change into scroll steps, and the screen also takes swipes and taps
+- 🌸 Songs you add are stored on the device in **IndexedDB**, with titles and artists read by a hand-written **ID3v2** tag parser
+- 🌸 Play queue (press and hold a song), shuffle, repeat, and lock-screen controls through the **Media Session API**
+- 🌸 Installs to the home screen and works offline: a service worker answers Safari's byte-range audio requests from its cache
+- 🌸 One HTML file with no framework or build step, hosted on **GitHub Pages**
+
+</td>
+</tr>
 </table>
 
 <br>
