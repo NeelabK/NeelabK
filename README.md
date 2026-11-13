@@ -73,6 +73,27 @@ and then measuring whether it actually got faster. I also build full-stack web a
 
 </td>
 </tr>
+<tr>
+<td width="100%">
+
+### 👛 [Y2K Dress Up Game](https://github.com/NeelabK/y2k-dress-up-game)
+
+**A 2000s Flash-style fashion dress-up game that runs in the browser. [Play it here](https://neelabk.github.io/y2k-dress-up-game/).**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F06BA8?style=flat-square&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-F06BA8?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-F06BA8?style=flat-square&logo=css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F06BA8?style=flat-square&logo=python&logoColor=white)
+
+<a href="https://neelabk.github.io/y2k-dress-up-game/"><img src="https://raw.githubusercontent.com/NeelabK/y2k-dress-up-game/main/screenshots/mall.png" width="640" alt="Screenshot of the dress-up game at the mall" /></a>
+
+- 🌸 Paper-doll layering: every item is a transparent PNG drawn in place on one shared canvas, stacked in a fixed order (shoes, bottoms, tops, coat, bag, shades)
+- 🌸 Clothes are actually worn, not pasted on: the doll's base layer is redrawn under each item, and the coat has a back panel plus a mask so tops tuck inside it
+- 🌸 19 items across four closets, three places to visit, a random-outfit button and a Y2K soundtrack
+- 🌸 One HTML file with no framework or build step, hosted on **GitHub Pages**; the art was fitted to the doll with a Python image pipeline (Pillow, NumPy, SciPy)
+
+</td>
+</tr>
 </table>
 
 <br>
