@@ -99,7 +99,7 @@ and then measuring whether it actually got faster. I also build full-stack web a
 
 ### 🎧 [Pink Mini Player](https://github.com/NeelabK/retro-pink-music-player)
 
-**A retro pink click-wheel music player for your phone that plays your own MP3s. [Try it here](https://neelabk.github.io/retro-pink-music-player/).**
+**Nostalgic IPod Music player for your phone that plays your own MP3s. [Try it here](https://neelabk.github.io/retro-pink-music-player/).**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F06BA8?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-F06BA8?style=flat-square&logo=html5&logoColor=white)
