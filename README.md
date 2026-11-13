@@ -89,7 +89,7 @@ and then measuring whether it actually got faster. I also build full-stack web a
 
 - 🌸 Paper-doll layering: every item is a transparent PNG drawn in place on one shared canvas, stacked in a fixed order (shoes, bottoms, tops, coat, bag, shades)
 - 🌸 Clothes are actually worn, not pasted on: the doll's base layer is redrawn under each item, and the coat has a back panel plus a mask so tops tuck inside it
-- 🌸 19 items across four closets, three places to visit, a random-outfit button and a Y2K soundtrack
+- 🌸 24 items across four closets, three places to visit, a random-outfit button and a Y2K soundtrack
 - 🌸 One HTML file with no framework or build step, hosted on **GitHub Pages**; the art was fitted to the doll with a Python image pipeline (Pillow, NumPy, SciPy)
 
 </td>
